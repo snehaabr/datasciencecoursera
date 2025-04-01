@@ -1,1 +1,2 @@
-# data science week1 assignment
+# AIML Projects - UT Austin Training
+
